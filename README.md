@@ -1,4 +1,4 @@
-### Hi there 👋
+### RAMDHANI PANDEY
 
 <!--
 **Kushalpandey732/Kushalpandey732** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://app.daily.dev/Kush732"><img src="https://api.daily.dev/devcards/60f8facfafa5402cb9361ef3f71c1050.png?r=igc" width="400" alt="Ramdhani Pandey's Dev Card"/></a>
